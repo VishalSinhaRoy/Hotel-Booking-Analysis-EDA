@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis-EDA
+# Hotel_Booking_Analysis - EDA
 
 ![image](https://github.com/VishalSinhaRoy/Hotel-Booking-Analysis-EDA/assets/162811130/5d9ef379-5e08-4661-8036-8cae7e65ad3a)
 
